@@ -1,5 +1,0 @@
-C:\Users\wangchj\Documents\Visual Studio 2008\Projects\HilbertTransform\HilbertTransform\bin\Release\HilbertTransform.exe
-C:\Users\wangchj\Documents\Visual Studio 2008\Projects\HilbertTransform\HilbertTransform\bin\Release\HilbertTransform.pdb
-C:\Users\wangchj\Documents\Visual Studio 2008\Projects\HilbertTransform\HilbertTransform\obj\Release\ResolveAssemblyReference.cache
-C:\Users\wangchj\Documents\Visual Studio 2008\Projects\HilbertTransform\HilbertTransform\obj\Release\HilbertTransform.exe
-C:\Users\wangchj\Documents\Visual Studio 2008\Projects\HilbertTransform\HilbertTransform\obj\Release\HilbertTransform.pdb
